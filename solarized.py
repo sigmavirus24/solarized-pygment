@@ -4,7 +4,7 @@ from pygments.token import Keyword, Name, Comment, String, Error, \
 
 BASE0 = '#839496'
 BASE1 = '#93a1a1'
-BASE2 = '#eee8d5'
+BASE2 = '#002B36'
 BASE3 = '#fdf6e3'
 BASE00 = '#657b83'
 BASE01 = '#586e75'
